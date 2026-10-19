@@ -48,9 +48,4 @@ streamlit run app.py
 
 ```
 
-### Next Steps:
-1. In VS Code, create a new file named `README.md` in your project folder.
-2. Paste this text in and save it.
-3. You're ready to push everything to GitHub!
-
 ```
